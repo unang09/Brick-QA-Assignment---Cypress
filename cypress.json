@@ -1,0 +1,17 @@
+{
+    "pageLoadTimeout": 360000,
+    "projectId": "p3evop",
+    "defaultCommandTimeout": 60000,
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "env": {
+        "signup_url": "https://brick-qa-assignment.herokuapp.com/",
+        "login_url": "https://brick-qa-assignment.herokuapp.com/login",
+        "signup_first_name": "Test",
+        "signup_last_name": "Michael",
+        "signup_address": "Rockbottom",
+        "signup_phone": "82218777879",
+        "login_email": "indomie.telur09@gmail.com",
+        "login_password": "12345678"
+    }
+}
